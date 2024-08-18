@@ -177,7 +177,440 @@ document.addEventListener('DOMContentLoaded', () => {
     { "front": "¿Qué músculo se encuentra en la parte posterior del tobillo y ayuda a mantener el arco del pie?", "back": "El tibial posterior." },
     { "front": "¿Cuál es el músculo que permite la elevación de la mandíbula y es importante para la masticación?", "back": "El masetero." },
     { "front": "¿Qué músculo está involucrado en la flexión de la columna vertebral y la compresión abdominal?", "back": "El recto del abdomen." }
+],
+
+siscardio:[
+    { "front": "¿Cuál es la principal función del sistema cardiovascular?", "back": "Transportar sangre, nutrientes, gases y desechos a través del cuerpo." },
+    { "front": "¿Qué órgano principal compone el sistema cardiovascular?", "back": "El corazón." },
+    { "front": "¿Cómo se llaman los vasos sanguíneos que llevan la sangre del corazón al resto del cuerpo?", "back": "Arterias." },
+    { "front": "¿Cuál es la función de las venas en el sistema cardiovascular?", "back": "Transportar sangre de vuelta al corazón." },
+    { "front": "¿Qué tipo de sangre transporta el ventrículo izquierdo del corazón?", "back": "Sangre oxigenada." },
+    { "front": "¿Qué válvula separa la aurícula derecha del ventrículo derecho?", "back": "La válvula tricúspide." },
+    { "front": "¿Cómo se llama el proceso de contracción del corazón?", "back": "Sístole." },
+    { "front": "¿Cuál es el nombre del proceso de relajación del corazón?", "back": "Diástole." },
+    { "front": "¿Qué estructura en el corazón evita el flujo retrógrado de sangre?", "back": "Las válvulas cardíacas." },
+    { "front": "¿Qué arteria suministra sangre al músculo cardíaco?", "back": "La arteria coronaria." },
+    { "front": "¿Qué cavidad del corazón recibe sangre desoxigenada de todo el cuerpo?", "back": "La aurícula derecha." },
+    { "front": "¿Qué cavidad del corazón envía sangre oxigenada a la aorta?", "back": "El ventrículo izquierdo." },
+    { "front": "¿Cuál es la principal función de los capilares?", "back": "Intercambiar nutrientes, gases y desechos entre la sangre y los tejidos." },
+    { "front": "¿Qué tipo de sangre transportan las arterias pulmonares?", "back": "Sangre desoxigenada." },
+    { "front": "¿Qué válvula está situada entre el ventrículo izquierdo y la aorta?", "back": "La válvula aórtica." },
+    { "front": "¿Cómo se llama la válvula que controla el flujo de sangre desde el ventrículo derecho hacia la arteria pulmonar?", "back": "La válvula pulmonar." },
+    { "front": "¿Qué tipo de sangre llevan las venas pulmonares hacia el corazón?", "back": "Sangre oxigenada." },
+    { "front": "¿Cuál es la función del sistema de conducción del corazón?", "back": "Regular el ritmo y la frecuencia de los latidos cardíacos." },
+    { "front": "¿Qué estructura en el corazón inicia el impulso eléctrico que causa la contracción?", "back": "El nodo sinoauricular (SA)." },
+    { "front": "¿Cuál es la función del nodo auriculoventricular (AV)?", "back": "Retrasar el impulso eléctrico para permitir la contracción de las aurículas antes de los ventrículos." },
+    { "front": "¿Cómo se llama la parte del sistema cardiovascular que se encarga de la circulación sistémica?", "back": "La circulación arterial que lleva sangre oxigenada al cuerpo." },
+    { "front": "¿Qué tipo de circulación lleva sangre desde el corazón hacia los pulmones?", "back": "Circulación pulmonar." },
+    { "front": "¿Qué estructura conecta el corazón con los pulmones en la circulación pulmonar?", "back": "Las arterias pulmonares." },
+    { "front": "¿Qué estructura permite el intercambio de gases en los pulmones?", "back": "Los alvéolos." },
+    { "front": "¿Cuál es el nombre de la principal vena que transporta sangre desoxigenada desde el cuerpo hacia el corazón?", "back": "La vena cava." },
+    { "front": "¿Qué es la presión arterial?", "back": "La fuerza que ejerce la sangre contra las paredes de las arterias." },
+    { "front": "¿Qué término describe el diámetro de los vasos sanguíneos y su efecto sobre la presión arterial?", "back": "La resistencia periférica." },
+    { "front": "¿Cómo se llama la técnica que utiliza ondas sonoras para visualizar el corazón y sus válvulas?", "back": "Ecocardiografía." },
+    { "front": "¿Qué es un electrocardiograma (ECG)?", "back": "Una prueba que registra la actividad eléctrica del corazón." },
+    { "front": "¿Cuál es la función de los eritrocitos en la sangre?", "back": "Transportar oxígeno desde los pulmones hacia los tejidos del cuerpo." },
+    { "front": "¿Qué son los leucocitos y cuál es su función?", "back": "Son células blancas de la sangre que combaten infecciones y participan en la respuesta inmune." },
+    { "front": "¿Qué componente de la sangre es esencial para la coagulación?", "back": "Las plaquetas." },
+    { "front": "¿Qué estructura en el corazón impide el flujo retrógrado de sangre hacia las aurículas?", "back": "Las válvulas auriculoventriculares." },
+    { "front": "¿Qué es el ciclo cardíaco?", "back": "La serie de eventos que ocurren durante un latido del corazón, incluyendo sístole y diástole." },
+    { "front": "¿Qué es la frecuencia cardíaca?", "back": "El número de latidos del corazón por minuto." },
+    { "front": "¿Qué arteria es la principal fuente de suministro de sangre al brazo?", "back": "La arteria braquial." },
+    { "front": "¿Cómo se llama el sistema de vasos que transportan sangre a las paredes del corazón?", "back": "El sistema de vasos coronarios." },
+    { "front": "¿Qué tipo de vasos sanguíneos tienen paredes muy delgadas para permitir el intercambio de sustancias?", "back": "Los capilares." },
+    { "front": "¿Qué es la presión venosa central?", "back": "La presión de la sangre en la aurícula derecha del corazón." },
+    { "front": "¿Qué hormona, producida por los riñones, regula la presión arterial?", "back": "La renina." },
+    { "front": "¿Qué tipo de sangre transportan las venas pulmonares hacia el corazón?", "back": "Sangre oxigenada." },
+    { "front": "¿Qué componente de la sangre transporta nutrientes y hormonas a los tejidos?", "back": "El plasma." },
+    { "front": "¿Cómo se llama la alteración del ritmo cardíaco que puede causar problemas en la circulación sanguínea?", "back": "Arritmia." },
+    { "front": "¿Cuál es la principal arteria que transporta sangre oxigenada desde el corazón al cuerpo?", "back": "La aorta." },
+    { "front": "¿Qué es una arteria?", "back": "Un vaso sanguíneo que transporta sangre desde el corazón a los tejidos del cuerpo." },
+    { "front": "¿Qué es una vena?", "back": "Un vaso sanguíneo que transporta sangre desde los tejidos del cuerpo de vuelta al corazón." },
+    { "front": "¿Qué es la circulación coronaria?", "back": "La circulación de la sangre a través de las arterias coronarias que suministran el músculo cardíaco." },
+    { "front": "¿Cómo se llama el sonido característico del latido del corazón?", "back": "El soplo cardíaco o el ruido de los latidos." },
+    { "front": "¿Qué tipo de sangre transporta el ventrículo derecho del corazón?", "back": "Sangre desoxigenada." },
+    { "front": "¿Cuál es la función de las válvulas cardíacas en el sistema cardiovascular?", "back": "Prevenir el flujo retrógrado de sangre en el corazón." },
+    { "front": "¿Qué estructura del corazón se encarga de bombear sangre hacia los pulmones?", "back": "El ventrículo derecho." },
+    { "front": "¿Qué estructura del corazón se encarga de bombear sangre al resto del cuerpo?", "back": "El ventrículo izquierdo." },
+    { "front": "¿Cuál es el nombre del sistema de vasos sanguíneos que lleva sangre desde el corazón hacia los pulmones y viceversa?", "back": "El sistema de circulación pulmonar." },
+    { "front": "¿Qué tipo de circulación es responsable de suministrar sangre rica en oxígeno a los tejidos del cuerpo?", "back": "La circulación sistémica." }
+] ,
+
+sisnervio:[
+    { "front": "¿Cuál es la principal función del sistema nervioso?", "back": "Coordinar y controlar las funciones corporales y responder a estímulos del entorno." },
+    { "front": "¿Qué partes componen el sistema nervioso central?", "back": "El cerebro y la médula espinal." },
+    { "front": "¿Cómo se llama la unidad funcional del sistema nervioso?", "back": "La neurona." },
+    { "front": "¿Qué tipo de neuronas transmiten impulsos desde los receptores hacia el sistema nervioso central?", "back": "Neuronas sensoriales o aferentes." },
+    { "front": "¿Qué tipo de neuronas transmiten impulsos desde el sistema nervioso central hacia los músculos o glándulas?", "back": "Neuronas motoras o eferentes." },
+    { "front": "¿Qué parte del sistema nervioso está encargada de la integración y procesamiento de información?", "back": "El cerebro." },
+    { "front": "¿Cuál es la función principal del sistema nervioso periférico?", "back": "Conectar el sistema nervioso central con los órganos, músculos y glándulas." },
+    { "front": "¿Qué parte del cerebro está involucrada en el control de los movimientos voluntarios?", "back": "El cerebro motor o lóbulo frontal." },
+    { "front": "¿Qué parte del cerebro está encargada de la percepción sensorial?", "back": "El lóbulo parietal." },
+    { "front": "¿Qué estructura conecta el cerebro con la médula espinal?", "back": "El tronco encefálico." },
+    { "front": "¿Cómo se llama el líquido que protege y nutre el sistema nervioso central?", "back": "El líquido cefalorraquídeo." },
+    { "front": "¿Qué es la mielina y cuál es su función?", "back": "La mielina es una sustancia que recubre las fibras nerviosas y acelera la transmisión de los impulsos eléctricos." },
+    { "front": "¿Qué son los ganglios en el sistema nervioso periférico?", "back": "Agrupaciones de cuerpos celulares de neuronas fuera del sistema nervioso central." },
+    { "front": "¿Qué parte del sistema nervioso controla las funciones involuntarias, como el ritmo cardíaco y la respiración?", "back": "El sistema nervioso autónomo." },
+    { "front": "¿Qué división del sistema nervioso autónomo prepara al cuerpo para la acción en situaciones de estrés?", "back": "El sistema nervioso simpático." },
+    { "front": "¿Qué división del sistema nervioso autónomo ayuda a mantener las funciones corporales en estado de reposo?", "back": "El sistema nervioso parasimpático." },
+    { "front": "¿Cuál es el principal neurotransmisor asociado con la estimulación y el estado de alerta?", "back": "La noradrenalina." },
+    { "front": "¿Qué neurotransmisor está involucrado en la regulación del estado de ánimo y el sueño?", "back": "La serotonina." },
+    { "front": "¿Cómo se llama la capa externa del cerebro que está involucrada en funciones cognitivas y motoras?", "back": "La corteza cerebral." },
+    { "front": "¿Qué estructura del cerebro está involucrada en la coordinación y el equilibrio?", "back": "El cerebelo." },
+    { "front": "¿Cuál es el nombre de los nervios que emergen directamente del cerebro?", "back": "Nervios craneales." },
+    { "front": "¿Qué nervios se originan en la médula espinal y se extienden hacia las extremidades y el torso?", "back": "Nervios raquídeos o espinales." },
+    { "front": "¿Qué parte del sistema nervioso central está involucrada en la memoria y el aprendizaje?", "back": "El hipocampo." },
+    { "front": "¿Cómo se llama el proceso de transmisión de un impulso nervioso a lo largo de una neurona?", "back": "La conducción nerviosa." },
+    { "front": "¿Qué es una sinapsis?", "back": "La conexión entre dos neuronas donde se transmite un impulso nervioso mediante neurotransmisores." },
+    { "front": "¿Qué estructura en la neurona recibe los impulsos nerviosos de otras neuronas?", "back": "Las dendritas." },
+    { "front": "¿Qué parte de la neurona transmite el impulso nervioso hacia otras neuronas o células efectores?", "back": "El axón." },
+    { "front": "¿Qué es el potencial de acción en una neurona?", "back": "Un cambio rápido en el potencial eléctrico a lo largo de la membrana de la neurona que transmite el impulso nervioso." },
+    { "front": "¿Qué parte del sistema nervioso está involucrada en la regulación de las funciones automáticas como la digestión?", "back": "El sistema nervioso autónomo." },
+    { "front": "¿Cómo se llama el proceso mediante el cual se producen nuevas conexiones neuronales en el cerebro?", "back": "La neuroplasticidad." },
+    { "front": "¿Qué estructura del cerebro está involucrada en la regulación emocional y la respuesta al estrés?", "back": "La amígdala." },
+    { "front": "¿Cuál es la principal función de los nervios motores?", "back": "Transmitir señales desde el sistema nervioso central a los músculos y glándulas." },
+    { "front": "¿Qué es el sistema nervioso somático?", "back": "La parte del sistema nervioso periférico que controla los movimientos voluntarios del cuerpo." },
+    { "front": "¿Qué es un reflejo y cómo se produce?", "back": "Una respuesta rápida e involuntaria a un estímulo que se produce a través de un arco reflejo en el sistema nervioso." },
+    { "front": "¿Qué estructura del cerebro está involucrada en la regulación de la homeostasis del cuerpo?", "back": "El hipotálamo." },
+    { "front": "¿Qué parte del sistema nervioso es responsable de las respuestas rápidas a estímulos ambientales?", "back": "El sistema nervioso periférico." },
+    { "front": "¿Cómo se llaman las células gliales que proporcionan soporte y protección a las neuronas en el sistema nervioso central?", "back": "Astrocitos, oligodendrocitos y microglía." },
+    { "front": "¿Qué estructura en la médula espinal permite la comunicación entre diferentes niveles del sistema nervioso?", "back": "Los tractos ascendentes y descendentes." },
+    { "front": "¿Cómo se llama el fenómeno cuando una neurona es estimulada repetidamente y su respuesta se vuelve más fuerte?", "back": "La potenciación a largo plazo." },
+    { "front": "¿Qué neurotransmisor está asociado con el control motor y la recompensa?", "back": "La dopamina." },
+    { "front": "¿Cuál es el papel de los neurotransmisores en la comunicación neuronal?", "back": "Transmitir señales entre las neuronas a través de las sinapsis." },
+    { "front": "¿Qué es la barrera hematoencefálica y cuál es su función?", "back": "Una barrera que protege al cerebro de sustancias potencialmente dañinas en la sangre." },
+    { "front": "¿Qué parte del sistema nervioso está involucrada en la percepción consciente y la toma de decisiones?", "back": "La corteza cerebral." },
+    { "front": "¿Qué es la sustancia blanca en el sistema nervioso central?", "back": "Las áreas del cerebro y la médula espinal que contienen fibras nerviosas mielinizadas." },
+    { "front": "¿Qué es la sustancia gris en el sistema nervioso central?", "back": "Las áreas del cerebro y la médula espinal que contienen cuerpos celulares de neuronas y dendritas." },
+    { "front": "¿Cómo se llama el proceso por el cual las neuronas eliminan neurotransmisores después de la transmisión sináptica?", "back": "La recaptación." },
+    { "front": "¿Qué parte del sistema nervioso controla el equilibrio y la coordinación motora?", "back": "El cerebelo." },
+    { "front": "¿Qué tipo de receptor sensorial responde a estímulos de luz?", "back": "Los fotorreceptores." },
+    { "front": "¿Qué tipo de receptor sensorial responde a estímulos de presión y vibración?", "back": "Los mecanorreceptores." },
+    { "front": "¿Qué parte del sistema nervioso está involucrada en la regulación del sueño y la vigilia?", "back": "El tronco encefálico y el sistema reticular activador." },
+    { "front": "¿Cómo se llama el proceso por el cual se forman nuevas neuronas en el cerebro adulto?", "back": "La neurogénesis." },
+    { "front": "¿Qué estructura del cerebro está involucrada en la regulación de la memoria y el aprendizaje?", "back": "El hipocampo." }
+] ,
+
+columnavert:[
+    { "front": "¿Cuál es la principal función de la columna vertebral?", "back": "Soportar el peso del cuerpo, proteger la médula espinal y permitir el movimiento." },
+    { "front": "¿Cuánt vértebras componen la columna vertebral en el adulto?", "back": "33 vértebras." },
+    { "front": "¿Cómo se dividen las vértebras de la columna vertebral?", "back": "Cervicales, torácicas, lumbares, sacras y coccígeas." },
+    { "front": "¿Cuánt vértebras cervicales hay en la columna vertebral?", "back": "7 vértebras cervicales." },
+    { "front": "¿Cuánt vértebras torácicas hay en la columna vertebral?", "back": "12 vértebras torácicas." },
+    { "front": "¿Cuánt vértebras lumbares hay en la columna vertebral?", "back": "5 vértebras lumbares." },
+    { "front": "¿Cuánt vértebras sacras hay en la columna vertebral?", "back": "5 vértebras sacras fusionadas." },
+    { "front": "¿Cuánt vértebras coccígeas hay en la columna vertebral?", "back": "4 vértebras coccígeas fusionadas." },
+    { "front": "¿Cuál es la curva normal de la columna vertebral en la región cervical?", "back": "Curva cervical o lordosis cervical." },
+    { "front": "¿Cuál es la curva normal de la columna vertebral en la región torácica?", "back": "Curva torácica o cifosis torácica." },
+    { "front": "¿Cuál es la curva normal de la columna vertebral en la región lumbar?", "back": "Curva lumbar o lordosis lumbar." },
+    { "front": "¿Qué estructura de la vértebra se articula con las costillas?", "back": "Los procesos transversos y las carillas costales." },
+    { "front": "¿Cómo se llama el espacio central a través del cual pasa la médula espinal?", "back": "El canal vertebral." },
+    { "front": "¿Qué es el disco intervertebral y cuál es su función?", "back": "Un cartílago que actúa como amortiguador entre las vértebras y permite el movimiento de la columna." },
+    { "front": "¿Qué estructura de la vértebra se encuentra en la parte posterior y sirve como punto de unión para los músculos?", "back": "El proceso espinoso." },
+    { "front": "¿Cómo se llama la estructura que conecta las vértebras entre sí y proporciona estabilidad?", "back": "Los ligamentos." },
+    { "front": "¿Qué tipo de articulación se encuentra entre las vértebras adyacentes?", "back": "Articulaciones facetarias o sinoviales." },
+    { "front": "¿Qué vértebra cervical es conocida como el atlas?", "back": "La primera vértebra cervical." },
+    { "front": "¿Qué vértebra cervical es conocida como el axis?", "back": "La segunda vértebra cervical." },
+    { "front": "¿Qué estructura en el atlas permite la rotación de la cabeza?", "back": "El odontoides o diente del axis." },
+    { "front": "¿Qué es una hernia de disco y dónde ocurre comúnmente?", "back": "Una protrusión del núcleo pulposo del disco intervertebral que comprime las raíces nerviosas, comúnmente en la región lumbar." },
+    { "front": "¿Qué tipo de vértebras tienen procesos espinosos largos y puntiagudos?", "back": "Las vértebras torácicas." },
+    { "front": "¿Qué estructura permite la flexión y extensión de la columna vertebral?", "back": "Los discos intervertebrales y las articulaciones facetarias." },
+    { "front": "¿Qué vértebras tienen cuerpos más grandes para soportar el peso del cuerpo?", "back": "Las vértebras lumbares." },
+    { "front": "¿Qué parte de la vértebra se articula con el disco intervertebral?", "back": "El cuerpo vertebral." },
+    { "front": "¿Cómo se llama la condición en la que la curva normal de la columna se aumenta excesivamente?", "back": "Cifosis." },
+    { "front": "¿Cómo se llama la condición en la que la curva normal de la columna lumbar se aumenta excesivamente?", "back": "Lordosis lumbar." },
+    { "front": "¿Qué estructura conecta la vértebra al sacro en la pelvis?", "back": "El ligamento sacroilíaco." },
+    { "front": "¿Cuál es la función principal del ligamento longitudinal anterior?", "back": "Prevenir la flexión excesiva de la columna vertebral." },
+    { "front": "¿Qué estructura del disco intervertebral proporciona la mayor parte del amortiguamiento?", "back": "El núcleo pulposo." },
+    { "front": "¿Qué estructura externa del disco intervertebral proporciona soporte y resistencia?", "back": "El anillo fibroso." },
+    { "front": "¿Qué tipo de movimiento permite la columna cervical?", "back": "Flexión, extensión, inclinación lateral y rotación." },
+    { "front": "¿Qué tipo de movimiento permite la columna lumbar?", "back": "Flexión y extensión principalmente." },
+    { "front": "¿Cómo se llama la fractura por compresión de una vértebra?", "back": "Fractura por compresión vertebral." },
+    { "front": "¿Qué vértebra torácica se identifica como T7 y T8?", "back": "Vértebras torácicas que se encuentran entre la región de las costillas." },
+    { "front": "¿Qué es la escoliosis?", "back": "Una curvatura anormal de la columna vertebral en el plano coronal." },
+    { "front": "¿Cómo se llama la vértebra en la región lumbar que se encuentra entre las vértebras L4 y L5?", "back": "L5." },
+    { "front": "¿Cuál es el propósito de las curvas naturales de la columna vertebral?", "back": "Mejorar la distribución del peso y la flexibilidad de la columna." },
+    { "front": "¿Qué estructura en la columna vertebral proporciona protección adicional a la médula espinal en la región lumbar?", "back": "Las vértebras lumbares y los ligamentos." },
+    { "front": "¿Qué tipo de movimientos realiza la columna torácica?", "back": "Principalmente rotación y flexión lateral." },
+    { "front": "¿Qué tipo de articulación es la articulación atlanto-occipital?", "back": "Una articulación de tipo condílea que permite la flexión y extensión de la cabeza." },
+    { "front": "¿Qué es la sindesmología en el contexto de la columna vertebral?", "back": "El estudio de las articulaciones entre las vértebras." },
+    { "front": "¿Qué vértebra se conoce como el 'diente' y es clave para la rotación de la cabeza?", "back": "El axis (C2)."},
+    { "front": "¿Qué estructura proporciona soporte y anclaje para los músculos del cuello?", "back": "Las apófisis transversas y espinosas de las vértebras cervicales." },
+    { "front": "¿Qué son las articulaciones uncovertebrales y dónde se encuentran?", "back": "Son articulaciones pequeñas entre los cuerpos de las vértebras cervicales." },
+    { "front": "¿Qué tipo de vértebra es la más móvil en la columna vertebral?", "back": "Las vértebras cervicales." },
+    { "front": "¿Cómo se llaman las protuberancias óseas en las vértebras torácicas donde se articulan las costillas?", "back": "Carillas costales." },
+    { "front": "¿Qué tipo de vértebras tienen cuerpos grandes y procesos espinosos cortos y fuertes?", "back": "Las vértebras lumbares." },
+    { "front": "¿Qué parte de la columna vertebral es más propensa a desarrollar hernias discales?", "back": "La región lumbar." },
+    { "front": "¿Cuál es la principal función del ligamento amarillo?", "back": "Unir las láminas de las vértebras y permitir la flexión y extensión de la columna vertebral." },
+    { "front": "¿Qué es el síndrome de cauda equina?", "back": "Una condición grave causada por la compresión de la cola de caballo en la región lumbar." }
+] ,
+
+dorso:[
+    { "front": "¿Cuál es la función principal del músculo trapecio?", "back": "Elevar, retraer y rotar la escápula; también ayuda en la extensión del cuello." },
+    { "front": "¿Dónde se inserta el músculo trapecio?", "back": "En la espina de la escápula, el acromion y el borde superior de la clavícula." },
+    { "front": "¿Cuál es el origen del músculo dorsal ancho?", "back": "En la fascia toracolumbar, las vértebras torácicas y lumbares, y la cresta ilíaca." },
+    { "front": "¿Qué acción realiza el músculo dorsal ancho?", "back": "Extiende, aduce y rota medialmente el brazo." },
+    { "front": "¿Qué músculos componen el grupo de los músculos erector de la columna?", "back": "El iliocostalis, el longissimus y el espinoso." },
+    { "front": "¿Qué función tienen los músculos erector de la columna?", "back": "Mantener la postura erecta y permitir la extensión y lateralización de la columna vertebral." },
+    { "front": "¿Cuál es la función del músculo romboides mayor?", "back": "Retrae y rota la escápula, y ayuda a mantenerla adosada a la pared torácica." },
+    { "front": "¿Dónde se inserta el músculo romboides mayor?", "back": "En el borde medial de la escápula." },
+    { "front": "¿Qué músculo se encuentra inmediatamente por encima del romboides mayor y tiene una función similar?", "back": "El romboides menor." },
+    { "front": "¿Cuál es la función del músculo elevador de la escápula?", "back": "Elevar la escápula y ayudar en la inclinación lateral del cuello." },
+    { "front": "¿Dónde se origina el músculo elevador de la escápula?", "back": "En las apófisis transversas de las vértebras cervicales." },
+    { "front": "¿Cuál es el origen del músculo serrato posterior superior?", "back": "En la parte inferior del ligamento nucal y en las apófisis espinosas de las vértebras cervicales y torácicas superiores." },
+    { "front": "¿Cuál es la función del músculo serrato posterior superior?", "back": "Elevar las costillas y asistir en la inspiración." },
+    { "front": "¿Dónde se inserta el músculo serrato posterior inferior?", "back": "En las apófisis espinosas de las vértebras torácicas y lumbares inferiores y en los bordes inferiores de las últimas costillas." },
+    { "front": "¿Qué acción realiza el músculo serrato posterior inferior?", "back": "Deprimir las costillas y ayudar en la expiración." },
+    { "front": "¿Cuál es la función principal del músculo latísimo del dorso?", "back": "Extensión, aducción y rotación medial del brazo." },
+    { "front": "¿Qué músculo del dorso tiene una forma triangular y se encuentra en la región superior de la espalda?", "back": "El trapecio." },
+    { "front": "¿Qué músculo se encuentra debajo del trapecio y contribuye a la movilidad de la escápula?", "back": "El dorsal ancho." },
+    { "front": "¿Cuál es la principal función del músculo infraespinoso?", "back": "Rotar lateralmente el brazo y estabilizar la articulación del hombro." },
+    { "front": "¿Dónde se origina el músculo infraespinoso?", "back": "En la fosa infraespinosa de la escápula." },
+    { "front": "¿Qué músculos forman el manguito rotador?", "back": "El supraespinoso, infraespinoso, redondo menor y subescapular." },
+    { "front": "¿Cuál es la función del músculo subescapular?", "back": "Rotar medialmente el brazo y estabilizar la articulación del hombro." },
+    { "front": "¿Dónde se inserta el músculo supraespinoso?", "back": "En el tubérculo mayor del húmero y en la fosa supraespinosa de la escápula." },
+    { "front": "¿Qué músculo del dorso ayuda en la rotación lateral del brazo y está ubicado debajo del trapecio?", "back": "El redondo menor." },
+    { "front": "¿Qué estructura conecta el dorsal ancho con el húmero?", "back": "El tendón del dorsal ancho." },
+    { "front": "¿Cómo se llama el músculo que se encuentra entre el trapecio y el dorsal ancho y contribuye a la estabilidad de la escápula?", "back": "El romboides menor." },
+    { "front": "¿Qué músculo se origina en las apófisis transversas de las vértebras cervicales y está involucrado en la elevación de la escápula?", "back": "El elevador de la escápula." },
+    { "front": "¿Qué músculo del dorso se encuentra en la parte inferior de la espalda y está involucrado en la extensión y aducción del brazo?", "back": "El dorsal ancho." },
+    { "front": "¿Cuál es la función del músculo redondo mayor?", "back": "Aducir y rotar medialmente el brazo." },
+    { "front": "¿Dónde se origina el músculo redondo mayor?", "back": "En el ángulo inferior de la escápula." },
+    { "front": "¿Qué músculo está ubicado en la región superior del dorso y se extiende desde la base del cráneo hasta la región torácica?", "back": "El trapecio." },
+    { "front": "¿Qué función realiza el músculo serrato posterior superior en la respiración?", "back": "Asiste en la elevación de las costillas durante la inspiración." },
+    { "front": "¿Qué músculo se encuentra en la región inferior del dorso y contribuye a la deglución y respiración?", "back": "El serrato posterior inferior." },
+    { "front": "¿Cuál es la función del músculo erector de la columna en la postura corporal?", "back": "Mantener la postura erecta y permitir el movimiento de la columna vertebral." },
+    { "front": "¿Qué músculo del dorso se localiza debajo del trapecio y se origina en la parte inferior de la columna torácica?", "back": "El dorsal ancho." },
+    { "front": "¿Cuál es el principal músculo de la extensión de la columna vertebral?", "back": "El erector de la columna." },
+    { "front": "¿Cómo se llama el músculo que se encuentra debajo del dorsal ancho y ayuda a estabilizar el hombro?", "back": "El romboides menor." },
+    { "front": "¿Qué músculo del dorso tiene una forma triangular y ayuda en la rotación y aducción del brazo?", "back": "El redondo mayor." },
+    { "front": "¿Cuál es la función principal del músculo infraespinoso?", "back": "Rotar lateralmente el brazo y ayudar a estabilizar el hombro." },
+    { "front": "¿Dónde se inserta el músculo subescapular?", "back": "En el tubérculo menor del húmero." },
+    { "front": "¿Qué músculo del dorso está implicado en la extensión y la rotación medial del brazo?", "back": "El dorsal ancho." },
+    { "front": "¿Qué músculo del dorso tiene un papel en la estabilización de la escápula durante el movimiento del hombro?", "back": "El serrato anterior." },
+    { "front": "¿Cuál es la función del músculo redondo menor en la articulación del hombro?", "back": "Rotar lateralmente el brazo y ayudar a estabilizar la articulación del hombro." },
+    { "front": "¿Qué músculo del dorso se encuentra justo encima del redondo mayor y tiene una función similar en el movimiento del brazo?", "back": "El dorsal ancho." },
+    { "front": "¿Cómo se llama el músculo que se encuentra en la región posterior del dorso y que se inserta en el borde medial de la escápula?", "back": "El romboides mayor." },
+    { "front": "¿Qué estructura del músculo trapecio está involucrada en la elevación del hombro?", "back": "El haz superior del trapecio." },
+    { "front": "¿Cuál es el músculo que se encuentra en la parte posterior del tronco y contribuye a la rotación y extensión de la columna vertebral?", "back": "El erector de la columna." },
+    { "front": "¿Qué músculo del dorso se origina en la parte inferior del cuello y la parte superior del torácico y tiene un papel en la  elevación de las costillas?", "back": "El serrato posterior superior." },
+    { "front": "¿Cómo se llama el músculo que se encuentra en la región posterior del tronco y tiene una función principal en la aducción y extensión del brazo?", "back": "El dorsal ancho." },
+    { "front": "¿Qué músculo está involucrado en la rotación lateral del brazo y está ubicado en la parte posterior del tórax?", "back": "El infraespinoso." },
+    { "front": "¿Cuál es el principal músculo que contribuye a la rotación medial del brazo en el dorso?", "back": "El subescapular." },
+    { "front": "¿Qué músculo se encuentra en la región posterior y medial del tronco y ayuda a mantener la postura erguida?", "back": "El erector de la columna." },
+    { "front": "¿Cuál es la función del músculo trapecio en la extensión del cuello?", "back": "Ayuda en la extensión del cuello cuando actúa unilateralmente o bilateralmente." }
+] ,
+
+craneo: [
+    {
+        "front": "¿Cuál es el hueso que forma la parte superior del cráneo?",
+        "back": "El hueso frontal."
+    },
+    {
+        "front": "¿Qué hueso se encuentra en la parte posterior del cráneo?",
+        "back": "El hueso occipital."
+    },
+    {
+        "front": "¿Qué hueso forma la base de la nariz y parte del paladar?",
+        "back": "El hueso maxilar."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la parte inferior de la mandíbula?",
+        "back": "El hueso mandibular."
+    },
+    {
+        "front": "¿Qué hueso está situado en la región temporal del cráneo?",
+        "back": "El hueso temporal."
+    },
+    {
+        "front": "¿Qué hueso forma el techo de la órbita ocular?",
+        "back": "El hueso frontal."
+    },
+    {
+        "front": "¿Qué hueso forma la parte inferior de la cavidad nasal?",
+        "back": "El hueso palatino."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la parte medial de la órbita ocular?",
+        "back": "El hueso lagrimal."
+    },
+    {
+        "front": "¿Qué hueso forma el lateral de la cabeza y la parte superior de la cavidad nasal?",
+        "back": "El hueso cigomático."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la parte posterior del techo de la cavidad nasal?",
+        "back": "El hueso etmoides."
+    },
+    {
+        "front": "¿Qué hueso se encuentra en la región occipital y tiene el foramen magnum?",
+        "back": "El hueso occipital."
+    },
+    {
+        "front": "¿Qué hueso está situado en la región lateral del cráneo y contiene la apófisis mastoides?",
+        "back": "El hueso temporal."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma el arco de la ceja?",
+        "back": "El hueso frontal."
+    },
+    {
+        "front": "¿Qué hueso se encuentra en la base del cráneo y se articula con el hueso occipital?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Qué hueso forma el paladar duro junto con el hueso maxilar?",
+        "back": "El hueso palatino."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma el puente de la nariz?",
+        "back": "El hueso nasal."
+    },
+    {
+        "front": "¿Qué hueso se encuentra en la región central del cráneo y tiene la silla turca?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la región inferior del cráneo y sostiene los dientes superiores?",
+        "back": "El hueso maxilar."
+    },
+    {
+        "front": "¿Qué hueso forma la parte posterior de la mandíbula?",
+        "back": "El hueso mandibular."
+    },
+    {
+        "front": "¿Qué hueso forma el borde de la órbita ocular?",
+        "back": "El hueso cigomático."
+    },
+    {
+        "front": "¿Qué hueso se encuentra en la parte superior del hueso temporal y forma parte del oído medio?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la parte superior y posterior del cráneo?",
+        "back": "El hueso parietal."
+    },
+    {
+        "front": "¿Qué hueso se articula con el hueso frontal y forma parte del techo nasal?",
+        "back": "El hueso etmoides."
+    },
+    {
+        "front": "¿Qué hueso forma el borde inferior de la órbita ocular?",
+        "back": "El hueso maxilar."
+    },
+    {
+        "front": "¿Cuál es el hueso que contiene la apófisis cigomática?",
+        "back": "El hueso temporal."
+    },
+    {
+        "front": "¿Qué hueso tiene la apófisis coronoides en la mandíbula?",
+        "back": "El hueso mandibular."
+    },
+    {
+        "front": "¿Qué hueso forma la parte superior de las mejillas?",
+        "back": "El hueso cigomático."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma el tabique nasal?",
+        "back": "El hueso etmoides."
+    },
+    {
+        "front": "¿Qué hueso tiene la espina nasal anterior?",
+        "back": "El hueso maxilar."
+    },
+    {
+        "front": "¿Qué hueso se encuentra en la base del cráneo y forma parte del clivus?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la región anterior del cráneo y tiene la apófisis frontal?",
+        "back": "El hueso frontal."
+    },
+    {
+        "front": "¿Qué hueso se articula con el hueso parietal en la sutura coronal?",
+        "back": "El hueso frontal."
+    },
+    {
+        "front": "¿Qué hueso tiene el foramen oval en su base?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la parte inferior de la cavidad ocular y el paladar?",
+        "back": "El hueso palatino."
+    },
+    {
+        "front": "¿Qué hueso tiene la apófisis mastoides en su estructura?",
+        "back": "El hueso temporal."
+    },
+    {
+        "front": "¿Qué hueso forma el techo de la boca?",
+        "back": "El hueso palatino."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la parte central y inferior del cráneo?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Qué hueso está situado en la parte posterior de la órbita ocular?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Qué hueso se articula con el hueso occipital en la sutura lambdoidea?",
+        "back": "El hueso parietal."
+    },
+    {
+        "front": "¿Qué hueso tiene el foramen infraorbitario?",
+        "back": "El hueso maxilar."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma el puente de la nariz?",
+        "back": "El hueso nasal."
+    },
+    {
+        "front": "¿Qué hueso forma la parte superior del hueso palatino?",
+        "back": "El hueso esfenoides."
+    },
+    {
+        "front": "¿Qué hueso forma la parte inferior del cráneo y sostiene los dientes inferiores?",
+        "back": "El hueso mandibular."
+    },
+    {
+        "front": "¿Qué hueso forma la región medial de la cavidad nasal?",
+        "back": "El hueso etmoides."
+    },
+    {
+        "front": "¿Cuál es el hueso que contiene el seno frontal?",
+        "back": "El hueso frontal."
+    },
+    {
+        "front": "¿Qué hueso está situado en la parte superior de la mandíbula y sostiene los dientes superiores?",
+        "back": "El hueso maxilar."
+    },
+    {
+        "front": "¿Qué hueso forma la parte superior de la cavidad ocular y del puente nasal?",
+        "back": "El hueso frontal."
+    },
+    {
+        "front": "¿Qué hueso se encuentra en la parte inferior del cráneo y tiene la apófisis condílea?",
+        "back": "El hueso mandibular."
+    },
+    {
+        "front": "¿Qué hueso tiene el foramen jugular en su estructura?",
+        "back": "El hueso temporal."
+    },
+    {
+        "front": "¿Cuál es el hueso que forma la parte medial del arco cigomático?",
+        "back": "El hueso cigomático."
+    },
+    {
+        "front": "¿Qué hueso forma el techo del paladar?",
+        "back": "El hueso palatino."
+    }
 ]
+
+ ,
+
+
         // Agrega datos para otros temas aquí...
     };
 
