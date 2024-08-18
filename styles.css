@@ -111,7 +111,7 @@ h1 {
 @media (max-width: 600px) {
     #flashcards-container {
         grid-template-columns: repeat(2, 1fr); /* 2 columnas en pantallas pequeñas */
-        grid-template-rows: repeat(3, auto); /* 3 filas */
+        grid-template-rows: repeat(2, auto); /* 3 filas */
     }
 
     .flashcard .card {
